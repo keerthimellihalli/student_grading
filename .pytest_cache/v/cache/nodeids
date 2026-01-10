@@ -1,0 +1,18 @@
+[
+  "test_student_grading.py::test_grade_a_lower_boundary",
+  "test_student_grading.py::test_grade_a_middle_value",
+  "test_student_grading.py::test_grade_a_upper_boundary",
+  "test_student_grading.py::test_grade_b_lower_boundary",
+  "test_student_grading.py::test_grade_b_middle_value",
+  "test_student_grading.py::test_grade_b_upper_boundary",
+  "test_student_grading.py::test_grade_c_lower_boundary",
+  "test_student_grading.py::test_grade_c_middle_value",
+  "test_student_grading.py::test_grade_c_upper_boundary",
+  "test_student_grading.py::test_grade_d_lower_boundary",
+  "test_student_grading.py::test_grade_d_middle_value",
+  "test_student_grading.py::test_grade_d_upper_boundary",
+  "test_student_grading.py::test_grade_f_below_40",
+  "test_student_grading.py::test_grade_s_lower_boundary",
+  "test_student_grading.py::test_grade_s_middle_value",
+  "test_student_grading.py::test_grade_s_upper_boundary"
+]
